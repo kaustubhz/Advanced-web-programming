@@ -1,0 +1,21 @@
+table{
+    background-color: blanchedalmond;
+    border: crimson;
+    margin: auto;
+    padding: 25px 35px 45px 35px;
+    text-align: justify;
+}
+button{
+background-color:lightyellow;
+border-color: lightyellow;
+border-radius: 2px;
+width : 100%;
+}
+input[type="text"]{
+    background-color: white;
+    width: 100%;
+}
+.title{
+    text-align: center;
+    color: black;
+}
