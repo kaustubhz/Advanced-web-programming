@@ -1,0 +1,27 @@
+img{
+    width : 100%;
+}
+ul{
+    background-color: skyblue;
+    padding: 2px;
+    margin: 2px;
+}
+li a{
+    color:blue;
+}
+
+li a :hover{
+    color:red;
+}
+.crumb
+{
+    display: inline-block;
+}
+.crumbs ul {
+    list-style-type: none;
+    
+    word-spacing: 4px;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
