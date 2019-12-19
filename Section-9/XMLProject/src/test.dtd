@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT student (prn,name,course,address)>
+<!ELEMENT prn (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT course (#PCDATA)>
+<!ELEMENT address (houseNo,street,city,pincode)>
+<!ELEMENT houseNo (#PCDATA)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT pincode (#PCDATA)>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="question2.xsl"?>
+<purchases>
+	<purchase>
+		<name>Apples</name>
+		<qty>1</qty>
+		<rate>24</rate>
+	</purchase>
+	<purchase>
+		<name>Lux Soap</name>
+		<qty>4</qty>	
+		<rate>15</rate>
+	</purchase>
+	<purchase>
+		<name>Room freshner</name>
+		<qty>1</qty>
+		<rate>200</rate>
+	</purchase>
+</purchases>

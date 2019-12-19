@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student SYSTEM "test.dtd" >
+<student>
+  <prn>prn</prn>
+  <name>name</name>
+  <course>course</course>
+  <address>
+    <houseNo>houseNo</houseNo>
+    <street>street</street>
+    <city>city</city>
+    <pincode>pincode</pincode>
+  </address>
+</student>

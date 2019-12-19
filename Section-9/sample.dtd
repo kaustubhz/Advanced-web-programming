@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT note=student (prn,name,course)>
+<!ELEMENT prn (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT course (#PCDATA)>
